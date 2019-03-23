@@ -1,0 +1,22 @@
+.header-style {
+  background-color: rgb(33,50,87);
+  color: white;
+}
+
+.card-header {
+  background-color: rgb(33,50,87);
+  color: white;
+}
+
+.article-frame {
+  background-color:rgb(235,240,239);
+  width: 70%;
+}
+
+.container {
+  padding-bottom: 15px;
+}
+
+a, u {
+  text-decoration: none;
+}
